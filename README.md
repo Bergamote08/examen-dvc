@@ -23,8 +23,8 @@ https://dagshub.com/licence.pedago
 
 ## Technologies utilisées
 
-- Python 🐍  
-- Scikit-learn 🤖  
-- DVC 📦  
-- DagsHub ☁️  
+- Python
+- Scikit-learn
+- DVC
+- DagsHub
 
