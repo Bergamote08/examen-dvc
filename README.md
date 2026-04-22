@@ -9,8 +9,8 @@ https://dagshub.com/licence.pedago
 
 
 ## Structure du projet
-
--├── data
+```
+├── data
 │ ├── raw
 │ └── processed
 ├── metrics
@@ -18,7 +18,7 @@ https://dagshub.com/licence.pedago
 ├── src
 ├── dvc.yaml
 ├── dvc.loc
-
+```
 ---
 
 ## Technologies utilisées
