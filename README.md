@@ -1,27 +1,30 @@
+# Examen DVC
 
-Examen DVC
+**Charlotte ALLEN**  
+Projet DagsHub : https://dagshub.com/Bergamote08/examen-dvc  
+Contact : allen.charlotte@gmail.com  
 
-Charlotte ALLEN
-https://dagshub.com/Bergamote08/examen-dvc
-allen.charlotte@gmail.com
+Le dépôt est partagé en lecture seule avec :  
+https://dagshub.com/licence.pedago  
 
-Le dépôt est partagé avec :
-https://dagshub.com/licence.pedago (lecture seule)
 
-Structure du projet
+## Structure du projet
 
-├── data
-│   ├── raw
-│   └── processed
+-├── data
+│ ├── raw
+│ └── processed
 ├── metrics
 ├── models
 ├── src
 ├── dvc.yaml
-├── dvc.lock
+├── dvc.loc
 
-Technologies utilisées
+---
 
-Python
-Scikit-learn
-DVC
-DagsHub
+## Technologies utilisées
+
+- Python 🐍  
+- Scikit-learn 🤖  
+- DVC 📦  
+- DagsHub ☁️  
+
